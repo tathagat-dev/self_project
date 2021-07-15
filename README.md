@@ -1,1 +1,1 @@
-# self_project
+# Stock Market Analysis for Tech Stocks
